@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{960BB3AA-EB81-4484-B14D-CAE31874B911}|WebServerTCP\\WebServerTCP.csproj|c:\\users\\temok\\desktop\\webservertcp\\webservertcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{960BB3AA-EB81-4484-B14D-CAE31874B911}|WebServerTCP\\WebServerTCP.csproj|solutionrelative:webservertcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960BB3AA-EB81-4484-B14D-CAE31874B911}|WebServerTCP\\WebServerTCP.csproj|c:\\users\\temok\\desktop\\webservertcp\\webservertcp\\webroot\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{960BB3AA-EB81-4484-B14D-CAE31874B911}|WebServerTCP\\WebServerTCP.csproj|solutionrelative:webservertcp\\webroot\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.html",
+              "DocumentMoniker": "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\webroot\\test.html",
+              "RelativeDocumentMoniker": "WebServerTCP\\webroot\\test.html",
+              "ToolTip": "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\webroot\\test.html",
+              "RelativeToolTip": "WebServerTCP\\webroot\\test.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-03T16:23:54.668Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,9 +45,9 @@
               "RelativeDocumentMoniker": "WebServerTCP\\WebServer.cs",
               "ToolTip": "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\WebServer.cs",
               "RelativeToolTip": "WebServerTCP\\WebServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswFEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T15:08:46.803Z",
+              "WhenOpened": "2025-05-03T15:12:47.73Z",
               "EditorCaption": ""
             },
             {
@@ -41,14 +58,10 @@
               "RelativeDocumentMoniker": "WebServerTCP\\Program.cs",
               "ToolTip": "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\Program.cs",
               "RelativeToolTip": "WebServerTCP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T14:46:32.25Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },

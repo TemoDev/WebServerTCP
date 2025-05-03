@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebServerTCP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d90711a989d8e70291b7c30a5fa5bd6658811c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebServerTCP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebServerTCP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
