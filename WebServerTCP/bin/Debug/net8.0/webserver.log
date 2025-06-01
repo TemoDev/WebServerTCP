@@ -1,0 +1,15 @@
+2025-06-02 01:57:14 [INFO] Server starting...
+2025-06-02 01:57:14 [INFO] Server started on port 8080
+2025-06-02 01:57:14 [INFO] Serving files from: C:\Users\temok\Desktop\WebServerTCP\WebServerTCP\webroot
+2025-06-02 01:57:14 [INFO] Logging to: C:\Users\temok\Desktop\WebServerTCP_old\WebServerTCP\bin\Debug\net8.0\webserver.log
+2025-06-02 01:58:30 [INFO] Client connected: 127.0.0.1:62423
+2025-06-02 01:58:30 [INFO] Request from 127.0.0.1:62423: GET /styles.css HTTP/1.1
+User-Agent: PostmanRuntime/7.43.4
+Accept: */*
+Postman-Token: 3cd9bdcb-d4b5-475c-b18f-1840aede80d2
+Host: localhost:8080
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+2025-06-02 01:58:30 [INFO] Serving file for 127.0.0.1:62423: C:\Users\temok\Desktop\WebServerTCP\WebServerTCP\webroot\styles.css
+2025-06-02 01:58:30 [INFO] Successfully served file: C:\Users\temok\Desktop\WebServerTCP\WebServerTCP\webroot\styles.css
+2025-06-02 01:58:30 [INFO] Client disconnected: 127.0.0.1:62423

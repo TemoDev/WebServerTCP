@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\WebServerTCP.csproj": {}
+    "C:\\Users\\temok\\Desktop\\WebServerTCP_old\\WebServerTCP\\WebServerTCP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\WebServerTCP.csproj": {
+    "C:\\Users\\temok\\Desktop\\WebServerTCP_old\\WebServerTCP\\WebServerTCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\WebServerTCP.csproj",
+        "projectUniqueName": "C:\\Users\\temok\\Desktop\\WebServerTCP_old\\WebServerTCP\\WebServerTCP.csproj",
         "projectName": "WebServerTCP",
-        "projectPath": "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\WebServerTCP.csproj",
+        "projectPath": "C:\\Users\\temok\\Desktop\\WebServerTCP_old\\WebServerTCP\\WebServerTCP.csproj",
         "packagesPath": "C:\\Users\\temok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\temok\\Desktop\\WebServerTCP\\WebServerTCP\\obj\\",
+        "outputPath": "C:\\Users\\temok\\Desktop\\WebServerTCP_old\\WebServerTCP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
